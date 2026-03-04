@@ -1,0 +1,15 @@
+{
+  "name": "roblox-oauth",
+  "version": "1.0.0",
+  "description": "Roblox OAuth App",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0",
+    "dotenv": "^16.4.0"
+  }
+}
