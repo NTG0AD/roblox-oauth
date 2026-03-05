@@ -1,15 +1,14 @@
 {
   "name": "roblox-oauth",
   "version": "1.0.0",
-  "description": "Roblox OAuth App",
+  "description": "IMF Roblox OAuth verification",
   "main": "server.js",
-  "type": "module",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.18.2",
-    "axios": "^1.6.0",
-    "dotenv": "^16.4.0"
+    "node-fetch": "^2.6.7",
+    "dotenv": "^16.1.4"
   }
 }
